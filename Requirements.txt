@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+scikit-learn
+numpy
+pickle
+folium
+streamlit-folium
+geopy
+pathlib
+matplotlib statsmodels
